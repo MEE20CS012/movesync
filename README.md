@@ -82,25 +82,25 @@ Open an [Anaconda-enabled command prompt](https://www.anaconda.org) (or your pre
 1) Create a `Python` environment (Recommended version  is `python3.11`)
 
 ```bash
-conda create -n freemocap-env python=3.11
+conda create -n movesync-env python=3.11
 ```
 
 2) Activate that newly created environment
 
 ```bash
-conda activate freemocap-env
+conda activate movesync-env
 ```
 
 3) Clone the repository
 
 ```bash
-git clone https://github.com/freemocap/freemocap
+git clone https://github.com/movesync/movesync
 ```
 
-4) Navigate into the newly cloned/downloaded `freemocap` folder
+4) Navigate into the newly cloned/downloaded `movesync` folder
 
 ```bash
-cd freemocap
+cd movesync
 ```
 
 5) Install the package via the `pyproject.toml` file
