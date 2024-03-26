@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/freemocap/freemocap/assets/15314521/da1af7fe-f808-43dc-8f59-c579715d6593" height="240" alt="Project Logo">
+    <img src="https://github.com/movesync/freemocap/assets/pics/1711338866664.png" height="240" alt="Project Logo">
 </p> 
 
 
