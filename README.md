@@ -16,9 +16,6 @@
 </p>
 
 
-https://user-images.githubusercontent.com/15314521/192062522-2a8d9305-f181-4869-a4b9-1aa068e094c9.mp4
-
-
 
 
 
@@ -95,33 +92,6 @@ ___
 
 ## Documentation 
 
-Our documenation is hosted at: https://freemocap.github.io/documentation/index_md.html
+Our documenation is hosted at: https://github.com/movesync/movesync
 
-That site is built using `writerside` from this repository: https://github.com/freemocap/documentation
-
-___
-
-
-
-### Contribution Guidelines
-
-Please read our contribution doc: [CONTRIBUTING.md](CONTRIBUTING.md)
-
-
-## Related
-
-[//]: # (* [project-name]&#40;#&#41; - Project description)
-
-## Maintainers
-
-* [Jon Matthis](https://github.com/jonmatthis)
-* [Endurance Idehen](https://github.com/endurance)
-
-## License
-
-This project is licensed under the APGL License - see the [LICENSE](LICENSE) file for details.
-
-If the AGPL does not work for your needs, we are happy to discuss terms to license this software to you with a different
-agreement at a price point that increases exponentially as you
-move [spiritually](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html) away from the `AGPL`
 
