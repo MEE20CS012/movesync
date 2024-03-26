@@ -3,9 +3,8 @@
 </p> 
 
 
-<h3 align="center">The FreeMoCap Project</h3>
-<h4 align="center"> A free-and-open-source, hardware-and-software-agnostic, minimal-cost, research-grade, motion capture
-system and platform for decentralized scientific research, education, and training</h2>
+<h3 align="center">MoveSync</h3>
+<h4 align="center"> Introducing an open-source, hardware-agnostic, cost-effective motion capture system and platform, designed for decentralized scientific research, education, and training, ensuring accessibility and flexibility across diverse disciplines.</h2>
 
 
 <p align="center">
