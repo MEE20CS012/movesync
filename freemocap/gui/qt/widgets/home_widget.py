@@ -150,13 +150,13 @@ class HomeWidget(QWidget):
     def _create_user_info_consent_checkbox(self):
         hbox = QHBoxLayout()
         self._layout.addLayout(hbox)
-        hbox.addStretch(1)
-        self._send_pings_checkbox = QCheckBox("Send anonymous usage information")
+        hbox.addStretch(0)
+        self._send_pings_checkbox = QCheckBox("❤️")
         self._send_pings_checkbox.setChecked(self.gui_state.send_user_pings)
         self._send_pings_checkbox.stateChanged.connect(self._on_send_pings_checkbox_changed)
         hbox.addWidget(self._send_pings_checkbox)
 
-        hbox.addStretch(1)
+        hbox.addStretch(0)
 
     @property
     def consent_to_send_usage_information(self):
