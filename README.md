@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="freemocap/assets/pics/1711338866664.png" height="240" alt="Project Logo">
+    <img src="freemocap/assets/pics/1711338866664.png" height="300" alt="Project Logo">
 </p> 
 
 
