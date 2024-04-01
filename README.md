@@ -48,9 +48,9 @@ freemocap
 ___
 ## Install/run from source code (i.e. the code in this repo)
 
-Open an [Anaconda-enabled command prompt](https://www.anaconda.org) (or your preferred method of environmnet management) and enter the following commands:
+Open an [Anaconda-enabled command prompt]() (or your preferred method of environmnet management) and enter the following commands:
 
-1) Create a `Python` environment (Recommended version  is `python3.11`)
+1) Create a `Python` environment (Recommended version  is python3.11)
 
 ```bash
 conda create -n movesync-env python=3.11
@@ -80,7 +80,7 @@ cd movesync
 pip install -e .
 ```
 
-6) Launch the GUI (via the `freemocap.__main__.py` entry point)
+6) Launch the GUI (via the freemocap.__main__.py entry point)
 
 ```bash
 python -m freemocap

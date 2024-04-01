@@ -145,8 +145,7 @@ class MainWindow(QMainWindow):
         self._central_tab_widget = self._create_central_tab_widget()
         self.setCentralWidget(self._central_tab_widget)
 
-        self._tools_dock_widget = self._create_tools_dock_widget()
-        self.addDockWidget(Qt.DockWidgetArea.RightDockWidgetArea, self._tools_dock_widget)
+        self._tools_do widgetdget(Qt.DockWidgetArea.RightDockWidgetArea, self._tools_dock_widget)
 
         self._control_panel_widget = self._create_control_panel_widget(log_update=self._log_view_widget.add_log)
         self._tools_dock_widget.setWidget(self._control_panel_widget)
